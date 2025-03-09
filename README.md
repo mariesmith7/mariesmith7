@@ -6,7 +6,7 @@
 
 ⚡ Fun fact: I once earned the nickname Dr. Dolittle for having three dogs, a cat, two birds, a turtle, a hamster, and an aquarium!
 
-When I'm not coding or designing, you can find me solving puzzles, roller skating, playing dominoes & Sudoku, or enjoying a vegan lifestyle.
+When I'm not coding or designing, you can find me solving puzzles, roller skating, playing dominoes & sudoku, and traveling!
 
 
 📫 Connect With Me
