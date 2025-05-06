@@ -1,8 +1,8 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/3a42e670-d30d-44ba-8c29-06233c7fad64)
+![github-header-image (1)](https://github.com/user-attachments/assets/9f14ebdb-1686-451e-a6b7-7952a68812bb)
 
 <br>
 # 💫 About Me:
-👋 <strong> Hi, I'm Marie! <br>I'm a Software Engineer </strong><br><br> <strong> 💻 What I Do </strong><br>Develop responsive websites and web applications using JavaScript, HTML, CSS, and the MERN stack.<br>Debug to maintain high-quality, efficient software.<br>Design marketing materials, infographics, and visual content to support branding and storytelling<br>Create branding kits to help individuals and businesses establish a strong online presence<br><br> <strong>🌍 Beyond the Code </strong><br>Outside of Tech I’m also an artist and visual storyteller, using creativity to uplift local communities.<br>I love traveling, hiking, fishing, roller skating, solving puzzles, and playing sudoku.
+<strong> 💻 What I Do </strong><br>Develop responsive websites and web applications using JavaScript, HTML, CSS, and the MERN stack.<br>Debug to maintain high-quality, efficient software.<br>Design marketing materials, infographics, and visual content to support branding and storytelling<br>Create branding kits to help individuals and businesses establish a strong online presence<br><br> <strong>🌍 Beyond the Code </strong><br>Outside of Tech I’m also an artist and visual storyteller, using creativity to uplift local communities.<br>I love traveling, hiking, fishing, roller skating, solving puzzles, and playing sudoku.
 <br>My favorite and lucky number is <strong> <em> 7 </em> </strong>
 <br><br> <strong> 🌱 Dev Quote of the Day </strong>  <br><br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
