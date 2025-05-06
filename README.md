@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/139029d5-a87d-410c-ae9e-2edaac84a3dc)
+![github-header-image (1)](https://github.com/user-attachments/assets/3a42e670-d30d-44ba-8c29-06233c7fad64)
+
 <br>
 # 💫 About Me:
 👋 <strong> Hi, I'm Marie! <br>I'm a Software Engineer </strong><br><br> <strong> 💻 What I Do </strong><br>Develop responsive websites and web applications using JavaScript, HTML, CSS, and the MERN stack.<br>Debug to maintain high-quality, efficient software.<br>Design marketing materials, infographics, and visual content to support branding and storytelling<br>Create branding kits to help individuals and businesses establish a strong online presence<br><br> <strong>🌍 Beyond the Code </strong><br>Outside of Tech I’m also an artist and visual storyteller, using creativity to uplift local communities.<br>I love traveling, hiking, fishing, roller skating, solving puzzles, and playing sudoku.
