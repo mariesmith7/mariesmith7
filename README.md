@@ -15,12 +15,9 @@
 
 
 
-
 <br>
-💫 About Me: 
+<strong> 💫 About Me: </strong>
 <br>
-<strong> 💻 What I Do </strong>
-<br><br>
 I'm a software engineer who enjoys turning ideas into a creative responsive web experiences that prioritize both functionality and user experience. I build full-stack applications using JavaScript, CSS, Node.js, Express, and MongoDB, and I genuinely enjoy solving problems whether it's fixing bugs, refining features, or learning something new along the way.
 <br> <br>
 I began my journey in web and graphic design, where I enjoyed combining creativity with purpose to build meaningful visual experiences.
