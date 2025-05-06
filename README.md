@@ -1,11 +1,14 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/9f14ebdb-1686-451e-a6b7-7952a68812bb)
 
 <br>
-# 💫 About Me:
-<strong> 💻 What I Do </strong><br>
-I'm a software engineer who enjoys turning ideas into a creative responsive web experiences that prioritize both functionality and user experience. I build full-stack applications using JavaScript, CSS, Node.js, Express, and MongoDB, and I genuinely enjoy solving problems whether it's fixing bugs, refining features, or learning something new along the way.
+💫 About Me: 
 <br>
-I began my journey in web and graphic design, where I enjoyed combining creativity with purpose to build meaningful visual experiences. As I worked more closely with the front end, I became increasingly curious about the technology powering it all. That curiosity led me to explore backend development and ultimately pursue full-stack software engineering.
+<strong> 💻 What I Do </strong>
+<br><br>
+I'm a software engineer who enjoys turning ideas into a creative responsive web experiences that prioritize both functionality and user experience. I build full-stack applications using JavaScript, CSS, Node.js, Express, and MongoDB, and I genuinely enjoy solving problems whether it's fixing bugs, refining features, or learning something new along the way.
+<br> <br>
+I began my journey in web and graphic design, where I enjoyed combining creativity with purpose to build meaningful visual experiences.
+As I worked more closely with the front end, I became increasingly curious about the technology powering it all. That curiosity led me to explore backend development and ultimately pursue full-stack software engineering.
 
 <br><br> <strong> 🌱 Dev Quote of the Day </strong>  <br><br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
